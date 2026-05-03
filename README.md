@@ -1,5 +1,3 @@
-# MundoDiseno-SaaS
-Inventory management platform and web catalog for the construction sector
 # Mundo Diseño — Inventory Panel & Web Catalog (SaaS)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
